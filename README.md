@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MuraliKoushikDesu
 - Computer Science Undergraduate | Entry-Level Software Developer | Skilled in Python, Java, C++, and Full-Stack Web Development | Passionate About Problem Solving, Machine Learning, and Data Analysis
-
+I am a motivated and detail-oriented Computer Science graduate eager to begin my career in software development, data analysis, or related fields. I aim to leverage my strong technical skills, problem-solving abilities, and collaborative mindset to contribute to innovative projects while growing professionally. I am excited to join a dynamic team where I can apply my expertise and continue building solutions that drive success.
